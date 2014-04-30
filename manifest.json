@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"name": "deutiize",
+	"name": "deutilize",
 	"version": "1",
 	"description": "change 'utilize' to 'use'.",
 	"icons": { "16": "icon16.png",
